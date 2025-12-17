@@ -20,7 +20,8 @@ Move all 4 disks from the **left rod** to the **right rod**:
 * Move only **one disk at a time**
 * You can only move the **top** disk from a rod
 * You may **not** place a larger disk on top of a smaller disk
-
+<br> <br>
+	![](https://github.com/Dennis3204/vhdl-tower-of-hanoi/blob/main/img/tower.jpg)
 ### Controls
 ---
 * **BTNL**: Move selector arrow to the **left** rod
