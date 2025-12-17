@@ -90,11 +90,9 @@ btnl/btnr/btn0  |                   |
    * `vga_sync.vhd`
    * `clk_wiz_0.vhd`
    * `clk_wiz_0_clk_wiz.vhd`
-3. Add your **constraints (.xdc)** file mapping:
+3. Add constraints file:
 
-   * `clk_in` to the board’s 100 MHz clock pin
-   * VGA pins: `VGA_red[3:0]`, `VGA_green[3:0]`, `VGA_blue[3:0]`, `VGA_hsync`, `VGA_vsync`
-   * Buttons: `btnl`, `btnr`, `btn0`
+   * `towers.xdc`
 4. Run:
 
    * **Synthesis**
