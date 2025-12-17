@@ -41,10 +41,6 @@ Move all 4 disks from the **left rod** to the **right rod**:
   * **VGA output** (RGB + HSYNC + VSYNC)
   * **Push buttons** mapped to `btnl`, `btnr`, `btn0`
 
-Common boards this matches (constraints-dependent):
-
-* Nexys A7 / Nexys 4 DDR class boards (VGA + 4-bit RGB signals)
-
 Also needed:
 
 * **VGA monitor + VGA cable** (or adapter)
