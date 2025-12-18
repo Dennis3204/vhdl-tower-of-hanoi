@@ -47,6 +47,7 @@ Move all 4 disks from the **left rod** to the **right rod**:
 Also needed:
 
 * **VGA monitor + VGA cable** (or adapter)
+* **USB-A to micro-USB cable**
 
 ---
 ## Files in This Repo
