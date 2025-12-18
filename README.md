@@ -262,10 +262,14 @@ This is the Vivado Clock Wizard wrapper module. It’s the interface-level file 
 
 ### Dennis Ren:
 
-* 
+* Designed and implemented `arrow.vhd`.
+* Integrated the counter output with the VGA display system.
+* Used his laptop to run and test the code.
 
 ### Dritan Xhelilaj:
 
-* 
+* Designed and implemented towers.vhd.
+* Designed and implemented counter.vhd.
+* Displayed the counter.
 
 <br><br>
