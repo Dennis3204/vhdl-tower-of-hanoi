@@ -268,8 +268,8 @@ This is the Vivado Clock Wizard wrapper module. It’s the interface-level file 
 
 ### Dritan Xhelilaj:
 
-* Designed and implemented towers.vhd.
-* Designed and implemented counter.vhd.
+* Designed and implemented `towers.vhd`.
+* Designed and implemented `counter.vhd`.
 * Displayed the counter.
 
 <br><br>
